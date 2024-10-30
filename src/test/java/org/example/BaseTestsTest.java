@@ -25,7 +25,7 @@ public class BaseTestsTest
      */
     public static Test suite()
     {
-        return new TestSuite( BaseTestsTest.class );
+        return new TestSuite( TestLogin.class );
     }
 
     /**
